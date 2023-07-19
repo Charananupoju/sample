@@ -1,0 +1,21 @@
+.input-group{
+    padding:10px;
+}
+.btn{
+    margin: 0px;
+} 
+.form-group {
+    margin-bottom: 1rem;
+  } 
+  .modal-footer {
+    background-color: #f4f4f4;
+    justify-content: center;
+  } 
+  .btn-block {
+    display: block;
+    width: 100%;
+  } 
+ .flex-wrap{ 
+    border-radius: 5px;
+    border: 2px solid rgb(150, 25, 25);
+ }
